@@ -9,6 +9,9 @@ Clas Ohlsson PLA length on full spool: 330m
 
 Clas Ohlsson PLA g/meter : 3.03g/meter
 
+Formula to count length on spool: 
+weight from spool - PLA roll weight/ 3.03 = x meter left
+
 Alternative S5 - homebuild
 Taulman Grön Nvent 2.85 - 101.30% in all directions. 
 
