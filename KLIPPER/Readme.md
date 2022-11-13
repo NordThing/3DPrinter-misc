@@ -1,4 +1,5 @@
 Klipper CONFIGURATION
+A lot of changes have been made since this was last published, have updated the files now. 
 
 Printer.cfg - K8200
 
